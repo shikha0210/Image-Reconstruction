@@ -26,16 +26,16 @@ knowledge from the website.
 - We make sure that the images uploaded by the users are safe.
 
 **FRONT ENDTECHNOLOGY**
--HTML5
--Angular Java
--CSS 3
--BOOTSRAP4
--JAVASCRIPT
--jQuery
+- HTML5
+- Angular Java
+- CSS 3
+- BOOTSRAP4
+- JAVASCRIPT
+- jQuery
 
 **BACK ENDTECHNOLOGY**
--Python
--TensorFlow
--Keras
--Flask
--OpenCV
+- Python
+- TensorFlow
+- Keras
+- Flask
+- OpenCV
